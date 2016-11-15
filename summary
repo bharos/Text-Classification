@@ -1,0 +1,45 @@
+Naive Bayes
+------------
+
+After stripping header
+
+rec.sport.hockey: have go ca they was on hockey you it is for team he that game of and in to the
+sci.med: or com have with my be edu not are this for you that it in and is of to the
+soc.religion.christian: but have he for as this be are not we you it god in is and that of to the
+talk.religion.misc: god he sandvik have as com for this be are not it you in is that and to of the
+len =  723
+0.777316735823
+0.679464907261
+
+After stop-word remove, stemming
+
+0.777316735823
+0.669718154377
+
+
+
+
+
+
+SVM
+-----
+After stripping header
+
+0.890733056708
+0.864481248502
+
+rec.sport.hockey: gm stats cup montreal ice leafs win playoff teams player season go games nhl play ca players game team hockey
+sci.med: com pitt needles pain it dyer geb health cancer banks medicine food gordon information patients treatment medical msg disease doctor
+soc.religion.christian: christian heaven geneva resurrection faith book bible christians easter our we christianity clh christ athos 1993 apr church god rutgers
+talk.religion.misc: article tyre values newton weiss apple tony amorc bull moral fbi convenient order frank kent brian sandvik koresh morality objective
+
+
+
+
+After stop-word remove, stemming
+
+rec.sport.hockey: gm stats cup montreal ice leafs win playoff teams player season go games nhl play ca players game team hockey
+sci.med: com pitt needles pain it dyer geb health cancer banks medicine food gordon information patients treatment medical msg disease doctor
+soc.religion.christian: christian heaven geneva resurrection faith book bible christians easter our we christianity clh christ athos 1993 apr church god rutgers
+talk.religion.misc: article tyre values newton weiss apple tony amorc bull moral fbi convenient order frank kent brian sandvik koresh morality objective
+
